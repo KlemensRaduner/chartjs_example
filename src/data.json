@@ -1,0 +1,469 @@
+{
+    "data" : [
+        {
+            "shop" : "Laufenburg",
+            "gen_date" : "2020-03-01",
+            "count(*)" : 3736
+        },
+        {
+            "shop" : "Waldshut-Tiengen",
+            "gen_date" : "2020-03-01",
+            "count(*)" : 2964
+        },
+        {
+            "shop" : "Waldshut-XXL-Lager",
+            "gen_date" : "2020-03-01",
+            "count(*)" : 11
+        },
+        {
+            "shop" : "Laufenburg",
+            "gen_date" : "2020-03-02",
+            "count(*)" : 3736
+        },
+        {
+            "shop" : "Waldshut-Tiengen",
+            "gen_date" : "2020-03-02",
+            "count(*)" : 2964
+        },
+        {
+            "shop" : "Waldshut-XXL-Lager",
+            "gen_date" : "2020-03-02",
+            "count(*)" : 11
+        },
+        {
+            "shop" : "Laufenburg",
+            "gen_date" : "2020-03-03",
+            "count(*)" : 3671
+        },
+        {
+            "shop" : "Waldshut-Tiengen",
+            "gen_date" : "2020-03-03",
+            "count(*)" : 2904
+        },
+        {
+            "shop" : "Waldshut-XXL-Lager",
+            "gen_date" : "2020-03-03",
+            "count(*)" : 11
+        },
+        {
+            "shop" : "Laufenburg",
+            "gen_date" : "2020-03-04",
+            "count(*)" : 4042
+        },
+        {
+            "shop" : "Waldshut-Tiengen",
+            "gen_date" : "2020-03-04",
+            "count(*)" : 3161
+        },
+        {
+            "shop" : "Waldshut-XXL-Lager",
+            "gen_date" : "2020-03-04",
+            "count(*)" : 12
+        },
+        {
+            "shop" : "Laufenburg",
+            "gen_date" : "2020-03-05",
+            "count(*)" : 4271
+        },
+        {
+            "shop" : "Waldshut-Tiengen",
+            "gen_date" : "2020-03-05",
+            "count(*)" : 3556
+        },
+        {
+            "shop" : "Waldshut-XXL-Lager",
+            "gen_date" : "2020-03-05",
+            "count(*)" : 21
+        },
+        {
+            "shop" : "Laufenburg",
+            "gen_date" : "2020-03-06",
+            "count(*)" : 4255
+        },
+        {
+            "shop" : "Waldshut-Tiengen",
+            "gen_date" : "2020-03-06",
+            "count(*)" : 3667
+        },
+        {
+            "shop" : "Waldshut-XXL-Lager",
+            "gen_date" : "2020-03-06",
+            "count(*)" : 20
+        },
+        {
+            "shop" : "Laufenburg",
+            "gen_date" : "2020-03-07",
+            "count(*)" : 4225
+        },
+        {
+            "shop" : "Waldshut-Tiengen",
+            "gen_date" : "2020-03-07",
+            "count(*)" : 3554
+        },
+        {
+            "shop" : "Waldshut-XXL-Lager",
+            "gen_date" : "2020-03-07",
+            "count(*)" : 17
+        },
+        {
+            "shop" : "Laufenburg",
+            "gen_date" : "2020-03-08",
+            "count(*)" : 3891
+        },
+        {
+            "shop" : "Waldshut-Tiengen",
+            "gen_date" : "2020-03-08",
+            "count(*)" : 3207
+        },
+        {
+            "shop" : "Waldshut-XXL-Lager",
+            "gen_date" : "2020-03-08",
+            "count(*)" : 15
+        },
+        {
+            "shop" : "Laufenburg",
+            "gen_date" : "2020-03-09",
+            "count(*)" : 3891
+        },
+        {
+            "shop" : "Waldshut-Tiengen",
+            "gen_date" : "2020-03-09",
+            "count(*)" : 3207
+        },
+        {
+            "shop" : "Waldshut-XXL-Lager",
+            "gen_date" : "2020-03-09",
+            "count(*)" : 15
+        },
+        {
+            "shop" : "Laufenburg",
+            "gen_date" : "2020-03-10",
+            "count(*)" : 3786
+        },
+        {
+            "shop" : "Waldshut-Tiengen",
+            "gen_date" : "2020-03-10",
+            "count(*)" : 3102
+        },
+        {
+            "shop" : "Waldshut-XXL-Lager",
+            "gen_date" : "2020-03-10",
+            "count(*)" : 14
+        },
+        {
+            "shop" : "Laufenburg",
+            "gen_date" : "2020-03-11",
+            "count(*)" : 4102
+        },
+        {
+            "shop" : "Waldshut-Tiengen",
+            "gen_date" : "2020-03-11",
+            "count(*)" : 3485
+        },
+        {
+            "shop" : "Waldshut-XXL-Lager",
+            "gen_date" : "2020-03-11",
+            "count(*)" : 19
+        },
+        {
+            "shop" : "Laufenburg",
+            "gen_date" : "2020-03-12",
+            "count(*)" : 4369
+        },
+        {
+            "shop" : "Waldshut-Tiengen",
+            "gen_date" : "2020-03-12",
+            "count(*)" : 3691
+        },
+        {
+            "shop" : "Waldshut-XXL-Lager",
+            "gen_date" : "2020-03-12",
+            "count(*)" : 24
+        },
+        {
+            "shop" : "Laufenburg",
+            "gen_date" : "2020-03-13",
+            "count(*)" : 4322
+        },
+        {
+            "shop" : "Waldshut-Tiengen",
+            "gen_date" : "2020-03-13",
+            "count(*)" : 3632
+        },
+        {
+            "shop" : "Waldshut-XXL-Lager",
+            "gen_date" : "2020-03-13",
+            "count(*)" : 17
+        },
+        {
+            "shop" : "Laufenburg",
+            "gen_date" : "2020-03-14",
+            "count(*)" : 3979
+        },
+        {
+            "shop" : "Waldshut-Tiengen",
+            "gen_date" : "2020-03-14",
+            "count(*)" : 3460
+        },
+        {
+            "shop" : "Waldshut-XXL-Lager",
+            "gen_date" : "2020-03-14",
+            "count(*)" : 11
+        },
+        {
+            "shop" : "Laufenburg",
+            "gen_date" : "2020-03-15",
+            "count(*)" : 3508
+        },
+        {
+            "shop" : "Waldshut-Tiengen",
+            "gen_date" : "2020-03-15",
+            "count(*)" : 2950
+        },
+        {
+            "shop" : "Waldshut-XXL-Lager",
+            "gen_date" : "2020-03-15",
+            "count(*)" : 9
+        },
+        {
+            "shop" : "Laufenburg",
+            "gen_date" : "2020-03-16",
+            "count(*)" : 3508
+        },
+        {
+            "shop" : "Waldshut-Tiengen",
+            "gen_date" : "2020-03-16",
+            "count(*)" : 2943
+        },
+        {
+            "shop" : "Waldshut-XXL-Lager",
+            "gen_date" : "2020-03-16",
+            "count(*)" : 9
+        },
+        {
+            "shop" : "Laufenburg",
+            "gen_date" : "2020-03-17",
+            "count(*)" : 3654
+        },
+        {
+            "shop" : "Waldshut-Tiengen",
+            "gen_date" : "2020-03-17",
+            "count(*)" : 3054
+        },
+        {
+            "shop" : "Waldshut-XXL-Lager",
+            "gen_date" : "2020-03-17",
+            "count(*)" : 9
+        },
+        {
+            "shop" : "Laufenburg",
+            "gen_date" : "2020-03-18",
+            "count(*)" : 4121
+        },
+        {
+            "shop" : "Waldshut-Tiengen",
+            "gen_date" : "2020-03-18",
+            "count(*)" : 3575
+        },
+        {
+            "shop" : "Waldshut-XXL-Lager",
+            "gen_date" : "2020-03-18",
+            "count(*)" : 9
+        },
+        {
+            "shop" : "Laufenburg",
+            "gen_date" : "2020-03-19",
+            "count(*)" : 4417
+        },
+        {
+            "shop" : "Waldshut-Tiengen",
+            "gen_date" : "2020-03-19",
+            "count(*)" : 3929
+        },
+        {
+            "shop" : "Waldshut-XXL-Lager",
+            "gen_date" : "2020-03-19",
+            "count(*)" : 12
+        },
+        {
+            "shop" : "Laufenburg",
+            "gen_date" : "2020-03-20",
+            "count(*)" : 4649
+        },
+        {
+            "shop" : "Waldshut-Tiengen",
+            "gen_date" : "2020-03-20",
+            "count(*)" : 4140
+        },
+        {
+            "shop" : "Waldshut-XXL-Lager",
+            "gen_date" : "2020-03-20",
+            "count(*)" : 12
+        },
+        {
+            "shop" : "Laufenburg",
+            "gen_date" : "2020-03-21",
+            "count(*)" : 4761
+        },
+        {
+            "shop" : "Waldshut-Tiengen",
+            "gen_date" : "2020-03-21",
+            "count(*)" : 4257
+        },
+        {
+            "shop" : "Waldshut-XXL-Lager",
+            "gen_date" : "2020-03-21",
+            "count(*)" : 12
+        },
+        {
+            "shop" : "Laufenburg",
+            "gen_date" : "2020-03-22",
+            "count(*)" : 4851
+        },
+        {
+            "shop" : "Waldshut-Tiengen",
+            "gen_date" : "2020-03-22",
+            "count(*)" : 4328
+        },
+        {
+            "shop" : "Waldshut-XXL-Lager",
+            "gen_date" : "2020-03-22",
+            "count(*)" : 11
+        },
+        {
+            "shop" : "Laufenburg",
+            "gen_date" : "2020-03-23",
+            "count(*)" : 4851
+        },
+        {
+            "shop" : "Waldshut-Tiengen",
+            "gen_date" : "2020-03-23",
+            "count(*)" : 4328
+        },
+        {
+            "shop" : "Waldshut-XXL-Lager",
+            "gen_date" : "2020-03-23",
+            "count(*)" : 11
+        },
+        {
+            "shop" : "Laufenburg",
+            "gen_date" : "2020-03-24",
+            "count(*)" : 4846
+        },
+        {
+            "shop" : "Waldshut-Tiengen",
+            "gen_date" : "2020-03-24",
+            "count(*)" : 4346
+        },
+        {
+            "shop" : "Waldshut-XXL-Lager",
+            "gen_date" : "2020-03-24",
+            "count(*)" : 11
+        },
+        {
+            "shop" : "Laufenburg",
+            "gen_date" : "2020-03-25",
+            "count(*)" : 4846
+        },
+        {
+            "shop" : "Waldshut-Tiengen",
+            "gen_date" : "2020-03-25",
+            "count(*)" : 4346
+        },
+        {
+            "shop" : "Waldshut-XXL-Lager",
+            "gen_date" : "2020-03-25",
+            "count(*)" : 11
+        },
+        {
+            "shop" : "Laufenburg",
+            "gen_date" : "2020-03-26",
+            "count(*)" : 4846
+        },
+        {
+            "shop" : "Waldshut-Tiengen",
+            "gen_date" : "2020-03-26",
+            "count(*)" : 4346
+        },
+        {
+            "shop" : "Waldshut-XXL-Lager",
+            "gen_date" : "2020-03-26",
+            "count(*)" : 11
+        },
+        {
+            "shop" : "Laufenburg",
+            "gen_date" : "2020-03-27",
+            "count(*)" : 4846
+        },
+        {
+            "shop" : "Waldshut-Tiengen",
+            "gen_date" : "2020-03-27",
+            "count(*)" : 4346
+        },
+        {
+            "shop" : "Waldshut-XXL-Lager",
+            "gen_date" : "2020-03-27",
+            "count(*)" : 11
+        },
+        {
+            "shop" : "Laufenburg",
+            "gen_date" : "2020-03-28",
+            "count(*)" : 4846
+        },
+        {
+            "shop" : "Waldshut-Tiengen",
+            "gen_date" : "2020-03-28",
+            "count(*)" : 4346
+        },
+        {
+            "shop" : "Waldshut-XXL-Lager",
+            "gen_date" : "2020-03-28",
+            "count(*)" : 11
+        },
+        {
+            "shop" : "Laufenburg",
+            "gen_date" : "2020-03-29",
+            "count(*)" : 4846
+        },
+        {
+            "shop" : "Waldshut-Tiengen",
+            "gen_date" : "2020-03-29",
+            "count(*)" : 4346
+        },
+        {
+            "shop" : "Waldshut-XXL-Lager",
+            "gen_date" : "2020-03-29",
+            "count(*)" : 11
+        },
+        {
+            "shop" : "Laufenburg",
+            "gen_date" : "2020-03-30",
+            "count(*)" : 4846
+        },
+        {
+            "shop" : "Waldshut-Tiengen",
+            "gen_date" : "2020-03-30",
+            "count(*)" : 4346
+        },
+        {
+            "shop" : "Waldshut-XXL-Lager",
+            "gen_date" : "2020-03-30",
+            "count(*)" : 11
+        },
+        {
+            "shop" : "Laufenburg",
+            "gen_date" : "2020-03-31",
+            "count(*)" : 4846
+        },
+        {
+            "shop" : "Waldshut-Tiengen",
+            "gen_date" : "2020-03-31",
+            "count(*)" : 4346
+        },
+        {
+            "shop" : "Waldshut-XXL-Lager",
+            "gen_date" : "2020-03-31",
+            "count(*)" : 11
+        }
+    ]}
+    
